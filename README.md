@@ -67,8 +67,8 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ## 📧 Contact
 - Created by: Vedavalli Patnala
-- Email: [Your Email]
-- GitHub: [Your GitHub Username]
-```
+- Email: projects.patnalavedavalli@gmail.com
+- GitHub: CyberSorceress
+
 
 ---
